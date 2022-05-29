@@ -6,7 +6,6 @@ body {
 }
 /* Profile */
 #profileContainer {
-  margin-top: 10px;
   text-align: center;
 }
 
@@ -18,12 +17,14 @@ body {
 
 /* Navigation  */
 nav {
+  margin-top: 20px;
   font-weight: 700;
   text-align: center;
 }
 
 nav ul {
   list-style-type: none;
+  margin: 0
 }
 
 nav ul li {
